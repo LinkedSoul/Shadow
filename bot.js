@@ -30,11 +30,11 @@ function writeBotData() {
 } 
  
 var config = {
-    name: 'Genesis Bot',
+    name: 'Seraph BoTT',
     userid: function () {
         return toId(this.name);
     },
-    group: '&',
+    group: '@',
     join: true,
     rooms: ['lobby'],
     punishvals: {
