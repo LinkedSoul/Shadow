@@ -353,6 +353,14 @@ exports.grouplist = [
 		broadcast: true
 	},
 	{
+		symbol: '$',
+		id: "Pro",
+		name: "Pro",
+		inherit: ' ',
+		alts: 's',
+		broadcast: true
+	},
+	{
 		symbol: ' ',
 		ip: 's'
 	}
